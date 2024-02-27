@@ -12,6 +12,9 @@ This project aims to daily collect and store all incident cases of antibiotic re
 
 **Project Objective**: The objective of this project is to analyze trends in antibiotic resistant infections and demographic disparities in global antibiotic resistant infections to contribute to improved public health surveillance and resources for those most susceptible to these infections.
 
+**Challenges**
+We had challenges tracking incident infections in patients because antibiotic resistant infections occur very quickly.  
+
 **Contributions**:
 
 Sweta contributed to the project description, and Anushka contributed to the project objectives. Both group members contributed to the project title and challenges.
