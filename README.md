@@ -1,7 +1,7 @@
 # 2024s_qtm350_ps01
 
 
-**Project Title:** 
+**Project Title:** Antibug Atlas: Tracking Worldwide Resistance
 
 **Group members:** Sweta Balaji and Anushka Jain
 
